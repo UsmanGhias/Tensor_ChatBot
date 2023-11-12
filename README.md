@@ -52,7 +52,7 @@ You can extend and improve the chatbot by:
 - Implementing more advanced NLP techniques for better responses.
 - Adding additional features, such as user authentication, external integrations, or voice recognition.
 
-Feel free to explore and experiment with the code to make the chatbot more powerful and engaging.
+Feel Free to explore and experiment with the code to make the chatbot more powerful & engaging.
 
 ## Acknowledgments
 
