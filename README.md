@@ -56,7 +56,7 @@ Feel Free to explore and experiment with the code to make the chatbot more power
 
 ## Acknowledgments
 
-- The project was created with inspiration from various online resources and tutorials.
+- The project was created with inspiration from various online resources & tutorials.
 
 ## License
 
